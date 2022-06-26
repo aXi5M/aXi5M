@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aXi5M
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
+- 📫 You can contanct me by email (axiumthe@gmail.com)
 
 <!---
 aXi5M/aXi5M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
