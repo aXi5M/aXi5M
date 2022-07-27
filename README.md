@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aXi5M
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML/CSS/JAVA.
+- 🌱 I’m currently learning to be a Frontend Developer
 - 📫 You can contanct me by email (axiumthe@gmail.com)
 
 <!---
